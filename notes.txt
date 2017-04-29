@@ -1,0 +1,9 @@
+pagina 22: App.js -> App.vue
+
+pagina 23: App.js -> App.vue
+
+pagina 36: import errado, o correto é import TaskList from './components/TaskList'
+
+página 42: não é informado que o método sortedTasks deve ser chamado dentro do v-for no lugar de todoList
+
+página 46: onde lê-se: "Logo, ao multiplicarmos esse número por dez", leia: "Logo, ao multiplicarmos esse número por cem"
