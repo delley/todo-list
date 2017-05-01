@@ -1,6 +1,6 @@
 <template>
   <div>
-    <input class="new-todo" @keyup.enter="addTask" placeholder="O que precisa ser feito?"></input>
+    <input class="new-todo" @keyup.enter="addTask" placeholder="O que precisa ser feito?" />
   </div>
 </template>
 
